@@ -12,13 +12,13 @@ VS Code 最新版本已内置 GitHub Copilot，导致官方模板中包含的 Co
 
 | Profile | 说明 | 扩展数 | 移除的扩展 |
 |---------|------|--------|-----------|
-| [angular.code-profile](angular.code-profile) | Angular 开发 | 14 | - |
-| [data-science.code-profile](data-science.code-profile) | 数据科学 / Jupyter | 18 → 17 | `github.copilot` |
-| [doc-writer.code-profile](doc-writer.code-profile) | 文档写作 / Markdown | 11 | - |
-| [java-general.code-profile](java-general.code-profile) | Java 通用开发 | 8 → 6 | `visualstudioexptteam.intellicode-api-usage-examples`、`visualstudioexptteam.vscodeintellicode` |
-| [java-spring.code-profile](java-spring.code-profile) | Java Spring Boot | 12 → 10 | `visualstudioexptteam.intellicode-api-usage-examples`、`visualstudioexptteam.vscodeintellicode` |
-| [nodejs.code-profile](nodejs.code-profile) | Node.js 开发 | 11 | - |
-| [python.code-profile](python.code-profile) | Python 开发 | 22 → 20 | `github.copilot`、`github.copilot-chat` |
+| [angular.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/angular.code-profile) | Angular 开发 | 14 | - |
+| [data-science.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/data-science.code-profile) | 数据科学 / Jupyter | 18 → 17 | `github.copilot` |
+| [doc-writer.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/doc-writer.code-profile) | 文档写作 / Markdown | 11 | - |
+| [java-general.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/java-general.code-profile) | Java 通用开发 | 8 → 6 | `visualstudioexptteam.intellicode-api-usage-examples`、`visualstudioexptteam.vscodeintellicode` |
+| [java-spring.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/java-spring.code-profile) | Java Spring Boot | 12 → 10 | `visualstudioexptteam.intellicode-api-usage-examples`、`visualstudioexptteam.vscodeintellicode` |
+| [nodejs.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/nodejs.code-profile) | Node.js 开发 | 11 | - |
+| [python.code-profile](https://raw.githubusercontent.com/Back-T0/code-profile/master/python.code-profile) | Python 开发 | 22 → 20 | `github.copilot`、`github.copilot-chat` |
 
 ## 使用方法
 
