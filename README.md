@@ -6,7 +6,7 @@
 
 VS Code 最新版本已内置 GitHub Copilot，导致官方模板中包含的 Copilot 扩展（如 `github.copilot`、`github.copilot-chat` 等）在导入时可能产生冲突，使 Profile 无法正常生效。
 
-本仓库的 `.code-profile` 文件均来自 VS Code 官方模板，移除了部分扩展（见下方详情）。
+本仓库的 `.code-profile` 文件均来自 VS Code 官方模板，移除了部分扩展（见下方详情），其余配置保持不变。
 
 ## 包含的 Profile
 
@@ -29,5 +29,5 @@ VS Code 最新版本已内置 GitHub Copilot，导致官方模板中包含的 Co
 
 ## 官方模板来源
 
-VS Code 官方 Profile 模板列表：
-https://main.vscode-cdn.net/core/profile-templates.json
+- VS Code 官方文档：[Profile Templates](https://code.visualstudio.com/docs/configure/profiles#_profile-templates)
+- VS Code 官方模板列表（JSON）：https://main.vscode-cdn.net/core/profile-templates.json
